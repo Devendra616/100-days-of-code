@@ -14,3 +14,7 @@ find the odd: https://practice.geeksforgeeks.org/viewSol.php?subId=9447671&pid=3
 Practiced Java Graph representation using AdjacencyList
 https://github.com/Devendra616/DSPractice
 Got some issue using github and intellij. 
+Before going to bed went through solving some questions on codewar. Read others code and solved one by own.
+https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/solutions/java
+
+
