@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: September 13, 2018
+### Day 1: September 13, 2018
 **Today's Progress**: 
 Solved one problem on codewar
 https://www.codewars.com/kata/clocky-mc-clock-face/solutions/java
@@ -10,7 +10,7 @@ GeekString : https://practice.geeksforgeeks.org/viewSol.php?subId=9447912&pid=36
 find the odd: https://practice.geeksforgeeks.org/viewSol.php?subId=9447671&pid=3664&user=Devendra_nmdc
 **Thoughts** Struggled for codewar question
 
-### Day 1: September 14, 2018
+### Day 2: September 14, 2018
 Practiced Java Graph representation using AdjacencyList
 https://github.com/Devendra616/DSPractice
 Got some issue using github and intellij. 
