@@ -35,3 +35,13 @@ https://www.codewars.com/kata/54b724efac3d5402db00065e/solutions/java
 
 Problem on calculating age of father when he would be twice son's age , given present age of father and son
 https://github.com/Devendra616/CodewarPractices/blob/master/src/TwiceAsOld.java
+
+### Day 5: September 17, 2018
+I devoted time reading Greedy Algorithm using java.
+https://github.com/Devendra616/Datastructures/blob/master/GreedyAlgo/src/ActivitySelectionProblem.java
+Thereafter solved some problems on Codewar:
+Direction Reduction problem
+https://github.com/Devendra616/CodewarPractices/blob/master/src/DirReduction.java
+Number of Divisors
+https://github.com/Devendra616/CodewarPractices/blob/master/src/FindDivisor.java
+
