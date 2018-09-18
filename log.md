@@ -38,10 +38,15 @@ https://github.com/Devendra616/CodewarPractices/blob/master/src/TwiceAsOld.java
 
 ### Day 5: September 17, 2018
 I devoted time reading Greedy Algorithm using java.
+Activity selection problem:
 https://github.com/Devendra616/Datastructures/blob/master/GreedyAlgo/src/ActivitySelectionProblem.java
 Thereafter solved some problems on Codewar:
 Direction Reduction problem
 https://github.com/Devendra616/CodewarPractices/blob/master/src/DirReduction.java
 Number of Divisors
 https://github.com/Devendra616/CodewarPractices/blob/master/src/FindDivisor.java
+
+## Day 6: September 18, 2018
+More on Greedy Algorithms, 
+Fractional Knapsack Problem: https://github.com/Devendra616/Datastructures/blob/master/GreedyAlgo/src/FractionalKnapsackProblem.java
 
