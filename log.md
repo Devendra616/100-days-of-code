@@ -47,6 +47,12 @@ Number of Divisors
 https://github.com/Devendra616/CodewarPractices/blob/master/src/FindDivisor.java
 
 ## Day 6: September 18, 2018
-More on Greedy Algorithms, 
+More on Greedy Algorithms
 Fractional Knapsack Problem: https://github.com/Devendra616/Datastructures/blob/master/GreedyAlgo/src/FractionalKnapsackProblem.java
 
+## Day 7: September 19, 2018
+Binary Array to number conversion
+Read some codes usage of Java8 streams
+https://github.com/Devendra616/CodewarPractices/blob/master/src/BinaryArrayToNumber.java
+Greedy algo: Huffman code
+https://github.com/Devendra616/Datastructures/blob/master/GreedyAlgo/src/HuffmanCodingProblem.java
