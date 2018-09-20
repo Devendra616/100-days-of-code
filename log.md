@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: September 13, 2018
-**Today's Progress**: 
 Solved one problem on codewar
 https://www.codewars.com/kata/clocky-mc-clock-face/solutions/java
 
@@ -56,3 +55,9 @@ Read some codes usage of Java8 streams
 https://github.com/Devendra616/CodewarPractices/blob/master/src/BinaryArrayToNumber.java
 Greedy algo: Huffman code
 https://github.com/Devendra616/Datastructures/blob/master/GreedyAlgo/src/HuffmanCodingProblem.java
+
+## Day 8: September 20, 2018
+Participated in GeeksForGeeks Sudo Placement. Its 3hrs online test comprising of 2 coding question and 50 MCQs.
+https://practice.geeksforgeeks.org/contest/sudo-placement-25/problems
+Started Freecodecamp. Revised quicly the basics of HTML and HTML5
+https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
