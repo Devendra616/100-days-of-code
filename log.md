@@ -59,5 +59,13 @@ https://github.com/Devendra616/Datastructures/blob/master/GreedyAlgo/src/Huffman
 ## Day 8: September 20, 2018
 Participated in GeeksForGeeks Sudo Placement. Its 3hrs online test comprising of 2 coding question and 50 MCQs.
 https://practice.geeksforgeeks.org/contest/sudo-placement-25/problems
-Started Freecodecamp. Revised quicly the basics of HTML and HTML5
+Started Freecodecamp. Revised quicky the basics of HTML and HTML5
 https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
+
+## Day 9: September 21, 2018
+Had some understanding of Hufmann Code, greedy algo
+Some Css curriculum in Freecodecamp
+https://learn.freecodecamp.org/
+
+I feel like have to do more tomorrow as nothing much achived today that could be accounted!
+
