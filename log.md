@@ -69,3 +69,7 @@ https://learn.freecodecamp.org/
 
 I feel like have to do more tomorrow as nothing much achived today that could be accounted!
 
+## Day 10: September 22, 2018
+Devoted time and complted the basics of CSS in freecodecamp. It has about 45 small sections. Initially I thought it is very easy but got to know many new stuffs that I didn't know earlier. Few I could list are:
+attribute selector, precedence in css, variables in css, :root element
+Lateron have browsed on Progressive Web Apps Cool!stuff tought
