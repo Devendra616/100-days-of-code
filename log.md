@@ -70,6 +70,14 @@ https://learn.freecodecamp.org/
 I feel like have to do more tomorrow as nothing much achived today that could be accounted!
 
 ## Day 10: September 22, 2018
-Devoted time and complted the basics of CSS in freecodecamp. It has about 45 small sections. Initially I thought it is very easy but got to know many new stuffs that I didn't know earlier. Few I could list are:
+Devoted time and completed the basics of CSS in freecodecamp. It has about 45 small sections. Initially I thought it is very easy but got to know many new stuffs that I didn't know earlier. Few I could list are:
 attribute selector, precedence in css, variables in css, :root element
-Lateron have browsed on Progressive Web Apps Cool!stuff tought
+Later-on have browsed on Progressive Web Apps Cool!stuff tought
+
+## Day 11: September 23, 2018
+Done some parts (18) of the Applied Visual Design Challanges of freecodecamp. 
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/
+Could spare only 2 hours for other than office work.
+New css properties learned: 
+  text-transform, opacity, line-height
+
