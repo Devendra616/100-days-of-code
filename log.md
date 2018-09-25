@@ -90,7 +90,8 @@ CSS diagrams :  heart and moon-crescent https://codepen.io/devendra-singh/pen/rZ
 ## Day 13: September 25, 2018
 Complted left over parts of Applied Visual Design in freecodecamp
 https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/
+Important Learnings: animation,@keyframes
 Practice works : 
     Bouncing ball:  https://codepen.io/devendra-singh/pen/OoeBPo
     Animated flickering Button: https://codepen.io/devendra-singh/pen/mGZjKJ
-    
+
