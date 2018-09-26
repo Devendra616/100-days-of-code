@@ -96,6 +96,6 @@ Practice works :
     Animated flickering Button: https://codepen.io/devendra-singh/pen/mGZjKJ
 
 ## Day 14: September 26, 2018
-Complted Applied Accessibility section in freecodecamp.
+Completed Applied Accessibility section in freecodecamp.
 https://learn.freecodecamp.org/responsive-web-design/applied-accessibility
 Important Learnings: accesskeys, tabindex, .sr-only css ,Contrast checking took like contrastchecker of color combination for checking readability. Web Content Accessibility Guidelines (WCAG) guidelines for contrast ratio.
