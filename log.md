@@ -99,3 +99,10 @@ Practice works :
 Completed Applied Accessibility section in freecodecamp.
 https://learn.freecodecamp.org/responsive-web-design/applied-accessibility
 Important Learnings: accesskeys, tabindex, .sr-only css ,Contrast checking took like contrastchecker of color combination for checking readability. Web Content Accessibility Guidelines (WCAG) guidelines for contrast ratio.
+
+## Day 15: September 27, 2018
+Participated in 3 hours GeeksForGeeks Sudo Placement. It involved 50 MCQ and 2 programming questions. 
+https://practice.geeksforgeeks.org/contest/sudo-placement-26/problems
+Completed the Responsive Web Design Challenges of freecodecamp
+https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles
+Learnings : Comparator in java, TreeMap, viewport units(vw,vh,vmin,vmax), media queries, device breakpoints
