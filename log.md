@@ -106,3 +106,10 @@ https://practice.geeksforgeeks.org/contest/sudo-placement-26/problems
 Completed the Responsive Web Design Challenges of freecodecamp
 https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles
 Learnings : Comparator in java, TreeMap, viewport units(vw,vh,vmin,vmax), media queries, device breakpoints
+
+## Day 16: September 28, 2018
+Introduction to flexbox completed from freecodecamp
+https://learn.freecodecamp.org/responsive-web-design/css-flexbox
+Also have completed the 24 lessions from https://flexboxfroggy.com/
+and other lessons from https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Have got good understanding of usage of flex.
