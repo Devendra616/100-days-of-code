@@ -113,3 +113,10 @@ https://learn.freecodecamp.org/responsive-web-design/css-flexbox
 Also have completed the 24 lessions from https://flexboxfroggy.com/
 and other lessons from https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 Have got good understanding of usage of flex.
+
+## Day 17: September 29, 2018
+Revised the flexbox from https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc
+Completed CSS Grid challenges from freecodecamp
+https://learn.freecodecamp.org/responsive-web-design/css-grid
+
+Tutorials from medium website is awesome.
