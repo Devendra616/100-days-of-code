@@ -120,3 +120,8 @@ Completed CSS Grid challenges from freecodecamp
 https://learn.freecodecamp.org/responsive-web-design/css-grid
 
 Tutorials from medium website is awesome.
+
+## Day 18: September 30, 2018
+Completed the first Responsive Web Design Projects - Build a Tribute Page
+https://codepen.io/devendra-singh/pen/XxJZYL
+Need to improve it later for much better responsiveness.
