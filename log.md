@@ -125,3 +125,8 @@ Tutorials from medium website is awesome.
 Completed the first Responsive Web Design Projects - Build a Tribute Page
 https://codepen.io/devendra-singh/pen/XxJZYL
 Need to improve it later for much better responsiveness.
+
+## Day 19: October 1, 2018
+Takenup a couse on Udemy on Oracle SQL Developer : Tips and Tricks
+https://www.udemy.com/oracle-sql-developer-tips-and-tricks/
+Complted 9/23 lectures of the course.
