@@ -130,3 +130,10 @@ Need to improve it later for much better responsiveness.
 Takenup a couse on Udemy on Oracle SQL Developer : Tips and Tricks
 https://www.udemy.com/oracle-sql-developer-tips-and-tricks/
 Complted 9/23 lectures of the course.
+
+## Day 20: October 4, 2018
+I was on tour with friends for two days so had 2 days break and full enjoyment. Now back to work and learning with full enthusiasm. 
+Today I worked on Responsive Web Design Projects - Build a Survey Form
+https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form
+https://codepen.io/devendra-singh/pen/XxKboz
+Passed the test. Need to add css. 
