@@ -137,3 +137,8 @@ Today I worked on Responsive Web Design Projects - Build a Survey Form
 https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form
 https://codepen.io/devendra-singh/pen/XxKboz
 Passed the test. Need to add css. 
+
+## Day 21: October 5, 2018
+I devoted more time learning CSS
+Designed a page using help from youtube 
+https://codepen.io/devendra-singh/pen/BqzErY
