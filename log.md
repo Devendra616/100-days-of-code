@@ -142,3 +142,7 @@ Passed the test. Need to add css.
 I devoted more time learning CSS
 Designed a page using help from youtube 
 https://codepen.io/devendra-singh/pen/BqzErY
+
+## Day 22: October 6, 2018
+Complted the designing and css of Survey Form
+https://codepen.io/devendra-singh/full/XxKboz/
