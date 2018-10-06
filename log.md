@@ -146,3 +146,6 @@ https://codepen.io/devendra-singh/pen/BqzErY
 ## Day 22: October 6, 2018
 Complted the designing and css of Survey Form
 https://codepen.io/devendra-singh/full/XxKboz/
+Completed the course on Udemy:
+https://www.udemy.com/oracle-sql-developer-tips-and-tricks/
+
