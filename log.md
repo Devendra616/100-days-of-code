@@ -149,3 +149,6 @@ https://codepen.io/devendra-singh/full/XxKboz/
 Completed the course on Udemy:
 https://www.udemy.com/oracle-sql-developer-tips-and-tricks/
 
+## Day 23: October 7, 2018
+I started Responsive Web Design Projects - Build a Product Landing Page
+but fumbled using flex. So had to revise and make notes on flex in a better way. Devoted 3 hours reading flex and understanding it fully.
