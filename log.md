@@ -152,3 +152,9 @@ https://www.udemy.com/oracle-sql-developer-tips-and-tricks/
 ## Day 23: October 7, 2018
 I started Responsive Web Design Projects - Build a Product Landing Page
 but fumbled using flex. So had to revise and make notes on flex in a better way. Devoted 3 hours reading flex and understanding it fully.
+
+## Day 24: October 8, 2018
+Completed the freecodecamp challange: Build a Product Landing Page
+https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page/
+https://codepen.io/devendra-singh/full/dgOgRv
+Used lots of flex and have got better understanding of it. 
