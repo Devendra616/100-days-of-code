@@ -169,7 +169,7 @@ Started the "The Web Developer Bootcamp" course
 Completed: 
 Introduction (7/7), Introduction to frontend development(6/6), Introduction to HTML(6/13).
 
-# Day 27: October 11, 2018
+## Day 27: October 11, 2018
 Completed the Freecodecamp challange: Build a Technical Documentation Page
 https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
 My Solution: https://codepen.io/devendra-singh/full/BqZRaN
