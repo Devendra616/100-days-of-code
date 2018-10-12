@@ -173,3 +173,9 @@ Introduction (7/7), Introduction to frontend development(6/6), Introduction to H
 Completed the Freecodecamp challange: Build a Technical Documentation Page
 https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
 My Solution: https://codepen.io/devendra-singh/full/BqZRaN
+
+## Day 28: October 12, 2018
+Particapted in hackerearth TCS Java Coding Challenge https://www.hackerearth.com/challenge/hiring/iWizard-the-tcs-java-coding-challenge/?utm_source=satellite&utm_campaign=iWizard-the-tcs-java-coding-challenge&utm_medium=link&rem-web=1 . Could complete 1/2 coding questions.
+Then movd to the "The Web Developer Bootcamp" course - Colt Steele
+Completed: 
+Introduction to HTML (7/13), Intermediate HTML (6/13)
