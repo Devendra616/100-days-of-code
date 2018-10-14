@@ -180,9 +180,14 @@ Then movd to the "The Web Developer Bootcamp" course - Colt Steele
 Completed: 
 Introduction to HTML (7/13), Intermediate HTML (6/13)
 
-## Day 29: October 13, 2014
+## Day 29: October 13, 2018
 Started a new repository for practice at Udemy Bootcamp course. 
 https://github.com/Devendra616/web-developer-bootcamp
 Completed: Intermediate HTML (7/13) and form excercise.
 Have gone through articles and resources for job interview
 https://codeburst.io/de-coding-the-front-end-development-interview-process-9601bc4c71e5
+
+## Day 30: October 14,2018
+My laptop crashed early morning. It will take about a week for engineer to visit.
+Meanwhile completed 6 videos from Udemy App. 
+Completed : Basic css( 6)
