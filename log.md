@@ -187,7 +187,13 @@ Completed: Intermediate HTML (7/13) and form excercise.
 Have gone through articles and resources for job interview
 https://codeburst.io/de-coding-the-front-end-development-interview-process-9601bc4c71e5
 
-## Day 30: October 14,2018
+## Day 30: October 14, 2018
 My laptop crashed early morning. It will take about a week for engineer to visit.
 Meanwhile completed 6 videos from Udemy App. 
-Completed : Basic css( 6)
+Completed : Basic css( 8/13)
+
+## Day 31: October 15, 2018
+Continuing with CSS on udemy.
+Completed : Introduction to CSS (5/13).
+            Intermediate CSS (2/13).
+One excercise on CSS             
