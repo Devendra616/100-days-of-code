@@ -195,5 +195,11 @@ Completed : Basic css( 8/13)
 ## Day 31: October 15, 2018
 Continuing with CSS on udemy.
 Completed : Introduction to CSS (5/13).
-            Intermediate CSS (2/13).
+            Intermediate CSS (2/16).
 One excercise on CSS      https://github.com/Devendra616/web-developer-bootcamp/blob/master/09_Selector_Exercise_Starter.zip       
+
+## Day 32: October 16, 2018
+Completed: Intermediate CSS(7/16)
+      Tic Tac Toe board using css
+      Freecodecamp- Started personal profile page excercise.
+  
