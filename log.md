@@ -206,6 +206,6 @@ Completed: Intermediate CSS(7/16)
 ## Day 33: October 17, 2018
 Devoted time to completion of Intermediate CSS on Udemy 
 Completed: Intermediate CSS(7/16)
-Image Gallery
-blog excercise
+Image Gallery https://github.com/Devendra616/web-developer-bootcamp/blob/master/imageGallery.html
+blog excercise https://github.com/Devendra616/web-developer-bootcamp/blob/master/blogExcercise.html
 Still struggling with profile page assignment. https://codepen.io/devendra-singh/pen/mzpQZJ
