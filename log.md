@@ -203,3 +203,9 @@ Completed: Intermediate CSS(7/16)
       Tic Tac Toe board using css
       Freecodecamp- Started personal profile page excercise.
   
+## Day 33: October 17, 2018
+Devoted time to completion of Intermediate CSS on Udemy 
+Completed: Intermediate CSS(7/16)
+Image Gallery
+blog excercise
+Still struggling with profile page assignment. https://codepen.io/devendra-singh/pen/mzpQZJ
