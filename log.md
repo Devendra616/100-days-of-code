@@ -215,3 +215,8 @@ Completed the FCC Personal Portfolio Challange
 https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage
 My solution:https://codepen.io/devendra-singh/full/mzpQZJ
 Started Bootstrap section on Udemy Web Developer Bootcamp course.
+
+## Day 35: October 19, 2018
+Received my first certificate at FCC https://t.co/lgL2g2NQRh
+More into bootstraps at Udemy course:
+Completed : forms, Nav bars, Grid system
