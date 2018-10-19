@@ -209,3 +209,9 @@ Completed: Intermediate CSS(7/16)
 Image Gallery https://github.com/Devendra616/web-developer-bootcamp/blob/master/imageGallery.html
 blog excercise https://github.com/Devendra616/web-developer-bootcamp/blob/master/blogExcercise.html
 Still struggling with profile page assignment. https://codepen.io/devendra-singh/pen/mzpQZJ
+
+## Day 34: October 18, 2018
+Completed the FCC Personal Portfolio Challange 
+https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage
+My solution:https://codepen.io/devendra-singh/full/mzpQZJ
+Started Bootstrap section on Udemy Web Developer Bootcamp course.
