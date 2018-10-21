@@ -220,3 +220,8 @@ Started Bootstrap section on Udemy Web Developer Bootcamp course.
 Received my first certificate at FCC https://t.co/lgL2g2NQRh
 More into bootstraps at Udemy course:
 Completed : forms, Nav bars, Grid system
+
+## Day 36: October 21, 2018
+Took one day rest on 20th. 
+Today I have worked towards completion of Image Gallery on udemy course.
+https://github.com/Devendra616/web-developer-bootcamp/blob/master/image_gallery_bootstrap.html
