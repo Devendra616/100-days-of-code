@@ -225,3 +225,8 @@ Completed : forms, Nav bars, Grid system
 Took one day rest on 20th. 
 Today I have worked towards completion of Image Gallery on udemy course.
 https://github.com/Devendra616/web-developer-bootcamp/blob/master/image_gallery_bootstrap.html
+
+## Day 37: October 22, 2018
+Completed the Bootstrap sessions from udemy.
+Excercise on udemy for match making applicaiton frontend.
+https://github.com/Devendra616/web-developer-bootcamp/blob/master/purrfect_match_excercise_bootstrap.html
