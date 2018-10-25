@@ -234,3 +234,6 @@ https://github.com/Devendra616/web-developer-bootcamp/blob/master/purrfect_match
 ## Day 38: October 24, 2018
 Losing time because of server failures in office had to devote about 12-14 hours in office.
 Started Bootstrap 4 on udemy. Completed 5/11 sessions. 
+
+## Day 39: October 25, 2018
+Completed the rest of the Bootstrap4 sessions on udemy ie 6/11 sessions. Bootstrap 4 has provided some easy cool features but lots to remember have to practice alot to learn features exists.
