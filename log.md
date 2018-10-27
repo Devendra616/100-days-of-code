@@ -237,3 +237,7 @@ Started Bootstrap 4 on udemy. Completed 5/11 sessions.
 
 ## Day 39: October 25, 2018
 Completed the rest of the Bootstrap4 sessions on udemy ie 6/11 sessions. Bootstrap 4 has provided some easy cool features but lots to remember have to practice alot to learn features exists.
+
+## Day 40: October 26, 2018
+It was an hectic day at office though managed to complete some of the learnings.
+Started FlexBox and layout on udemy. Completed 5/12 sessions of the bootcamp.
