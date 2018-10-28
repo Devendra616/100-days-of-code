@@ -245,3 +245,8 @@ Started FlexBox and layout on udemy. Completed 5/12 sessions of the bootcamp.
 ## Day 41: October 27, 2018
 Worked on Pattern Project on Udemy: https://codepen.io/devendra-singh/pen/yRwVZB
 Completed 2/12 sessions of the bootcamp.
+
+## Day 42: October 28, 2018
+Finally the bootstrap4 sessions is completed.
+Today's tasks : sessions 5/12 
+                Project Museum of Candy https://github.com/Devendra616/web-developer-bootcamp/blob/master/Museum_Of_Candy.zip
