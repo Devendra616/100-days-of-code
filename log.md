@@ -241,3 +241,7 @@ Completed the rest of the Bootstrap4 sessions on udemy ie 6/11 sessions. Bootstr
 ## Day 40: October 26, 2018
 It was an hectic day at office though managed to complete some of the learnings.
 Started FlexBox and layout on udemy. Completed 5/12 sessions of the bootcamp.
+
+## Day 41: October 27, 2018
+Worked on Pattern Project on Udemy: https://codepen.io/devendra-singh/pen/yRwVZB
+Completed 2/12 sessions of the bootcamp.
