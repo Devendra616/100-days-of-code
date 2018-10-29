@@ -250,3 +250,6 @@ Completed 2/12 sessions of the bootcamp.
 Finally the bootstrap4 sessions is completed.
 Today's tasks : sessions 5/12 
                 Project Museum of Candy https://github.com/Devendra616/web-developer-bootcamp/blob/master/Museum_Of_Candy.zip
+
+## Day 43: October 29, 2018
+Completed introduction to Javascript 12/12 sessions at udemy bootcamp. 
