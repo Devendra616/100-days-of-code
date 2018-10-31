@@ -254,3 +254,7 @@ Today's tasks : sessions 5/12
 ## Day 43: October 29, 2018
 Completed introduction to Javascript 12/12 sessions at udemy bootcamp.
 Learnings: JS primitives, variables, nulls, undefined
+
+## Day 44: October 30, 2018
+More into javascript , completed 10/18 sessions of udemy bootcamp.
+Learnings: logical operators, while loops and exercises.
