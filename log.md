@@ -7,7 +7,7 @@ https://www.codewars.com/kata/clocky-mc-clock-face/solutions/java
 Solved 2 Questions in GeeksforGeeks contest (Sudo Placement 2.4) 
 GeekString : https://practice.geeksforgeeks.org/viewSol.php?subId=9447912&pid=3665&user=Devendra_nmdc
 find the odd: https://practice.geeksforgeeks.org/viewSol.php?subId=9447671&pid=3664&user=Devendra_nmdc
-**Thoughts** Struggled for codewar question
+**Though** Struggled for codewar question
 
 ### Day 2: September 14, 2018
 Practiced Java Graph representation using AdjacencyList
@@ -258,3 +258,9 @@ Learnings: JS primitives, variables, nulls, undefined
 ## Day 44: October 30, 2018
 More into javascript , completed 10/18 sessions of udemy bootcamp.
 Learnings: logical operators, while loops and exercises.
+
+## Day 45: October 31, 2018
+Javascript on Webdeveloper bootcamp.
+Completed 8/18 sessions of Javascript control flow.
+completed for loops.
+Now heading towards functions in javascript
