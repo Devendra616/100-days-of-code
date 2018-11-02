@@ -267,3 +267,7 @@ Now heading towards functions in javascript
 
 ## Day 46: November 1, 2018
 Completed the javascript functions 11/11 sessions at Udemy. It was an easy task.
+
+## Day 47: November 2, 2018
+Completed the javascript basic arrays 9/13 sessions of udemy.
+
