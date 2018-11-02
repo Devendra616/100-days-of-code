@@ -264,3 +264,6 @@ Javascript on Webdeveloper bootcamp.
 Completed 8/18 sessions of Javascript control flow.
 completed for loops.
 Now heading towards functions in javascript
+
+## Day 46: November 1, 2018
+Completed the javascript functions 11/11 sessions at Udemy. It was an easy task.
