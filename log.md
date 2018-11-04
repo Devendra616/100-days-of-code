@@ -271,3 +271,5 @@ Completed the javascript functions 11/11 sessions at Udemy. It was an easy task.
 ## Day 47: November 2, 2018
 Completed the javascript basic arrays 9/13 sessions of udemy.
 
+## Day 48: November 3, 2018
+Completed the javascipt basic arrays rest 4/13 sessions of udemy. Read some articles at medium.
