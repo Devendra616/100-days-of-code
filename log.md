@@ -273,3 +273,6 @@ Completed the javascript basic arrays 9/13 sessions of udemy.
 
 ## Day 48: November 4, 2018
 Completed the javascipt basic arrays rest 4/13 sessions of udemy. Read some articles at medium.
+
+## Day 49: November 5, 2018
+Quickly completed the javascript object 7/7 sessions on udemy. Now will dive into freecodecamp sessions. 
