@@ -276,3 +276,7 @@ Completed the javascipt basic arrays rest 4/13 sessions of udemy. Read some arti
 
 ## Day 49: November 5, 2018
 Quickly completed the javascript object 7/7 sessions on udemy. Now will dive into freecodecamp sessions. 
+
+## Day 50: November 7-8, 2018
+Completed 26 sessions of Introduction to Javascript at Freecodecamp. https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript
+Completed 3 sessions of DOM Manipulation at Udemy.
