@@ -280,3 +280,8 @@ Quickly completed the javascript object 7/7 sessions on udemy. Now will dive int
 ## Day 50: November 7-8, 2018
 Completed 26 sessions of Introduction to Javascript at Freecodecamp. https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript
 Completed 3 sessions of DOM Manipulation at Udemy.
+
+## Day 51: November 14, 2018
+I was on election duty at remote place so could not carry on studies for few days. Now I'm back.
+Today completed the rest sessions(10/13) of DOM Manipulation at Udemy. 
+Read few articles at Medium. 
