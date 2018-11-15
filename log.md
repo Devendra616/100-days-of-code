@@ -285,3 +285,8 @@ Completed 3 sessions of DOM Manipulation at Udemy.
 I was on election duty at remote place so could not carry on studies for few days. Now I'm back.
 Today completed the rest sessions(10/13) of DOM Manipulation at Udemy. 
 Read few articles at Medium. 
+
+## Day 52: November 15, 2018
+Completed 4/8 of advanced DOM Management. 
+some Javascript sessions at Freecodecamp.
+learnings: Events, HTMLCollection vs NodeList.
