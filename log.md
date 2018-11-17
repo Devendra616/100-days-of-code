@@ -290,3 +290,9 @@ Read few articles at Medium.
 Completed 4/8 of advanced DOM Management. 
 some Javascript sessions at Freecodecamp.
 learnings: Events, HTMLCollection vs NodeList.
+
+## Day 53-54: November 16-17, 2018
+Completed the 4/8 advanced DOM Manipulation.
+some javacript sessions at Freecodecamp.
+revised GIT from https://www.bitdegree.org/learn/git-move-files/.
+
