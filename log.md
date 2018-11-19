@@ -296,3 +296,8 @@ Completed the 4/8 advanced DOM Manipulation.
 some javacript sessions at Freecodecamp.
 revised GIT from https://www.bitdegree.org/learn/git-move-files/.
 
+## Day 55: November 18, 2018
+Completed the color game using html, javascript and css
+https://github.com/Devendra616/web-developer-bootcamp/tree/master/Color%20Game
+https://codepen.io/devendra-singh/full/ZmXyNO
+Completed 10/10 of Color Game project on Udemy
