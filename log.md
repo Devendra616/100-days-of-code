@@ -301,3 +301,9 @@ Completed the color game using html, javascript and css
 https://github.com/Devendra616/web-developer-bootcamp/tree/master/Color%20Game
 https://codepen.io/devendra-singh/full/ZmXyNO
 Completed 10/10 of Color Game project on Udemy
+
+## Day 56: November 19, 2018
+Started jQuery on udemy bootcamp.
+Completed 9/9 sessions of introduction to jQuery.
+one excercise https://github.com/Devendra616/web-developer-bootcamp/tree/master/jQueryExercise
+Learnt : jquery selectors, attr, val, prop.
