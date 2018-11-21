@@ -307,3 +307,7 @@ Started jQuery on udemy bootcamp.
 Completed 9/9 sessions of introduction to jQuery.
 one excercise https://github.com/Devendra616/web-developer-bootcamp/tree/master/jQueryExercise
 Learnt : jquery selectors, attr, val, prop.
+
+## Day 57-58: November 20-21, 2018
+Completed 29 excercises of Freecodecamp related to introduction to Javascript.
+competed the 5/5 advanced jQuery from udemy. 
