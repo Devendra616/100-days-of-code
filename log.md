@@ -311,3 +311,8 @@ Learnt : jquery selectors, attr, val, prop.
 ## Day 57-58: November 20-21, 2018
 Completed 29 excercises of Freecodecamp related to introduction to Javascript.
 competed the 5/5 advanced jQuery from udemy. 
+
+## Day 59: November 22, 2018
+Completed the toDo App using jquery, css, html
+https://github.com/Devendra616/web-developer-bootcamp/tree/master/jQueryToDoList
+https://codepen.io/devendra-singh/full/aQYYLP
