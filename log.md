@@ -316,3 +316,9 @@ competed the 5/5 advanced jQuery from udemy.
 Completed the toDo App using jquery, css, html
 https://github.com/Devendra616/web-developer-bootcamp/tree/master/jQueryToDoList
 https://codepen.io/devendra-singh/full/aQYYLP
+
+## Day 60: November 24-25, 2018
+Started the patapat clone project but then gaveup for later. 
+Went through different articles on ECMAScript6. Difference between const, var, freeze and let.
+Read some articles on Medium.
+
