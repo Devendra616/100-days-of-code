@@ -322,3 +322,8 @@ Started the patapat clone project but then gaveup for later.
 Went through different articles on ECMAScript6. Difference between const, var, freeze and let.
 Read some articles on Medium.
 
+## Day 61-63: November 27*29, 2018
+Udemy bootcamp backend basics 7/7.
+Udemy bootcamp commandline basics 6/6
+Started nodejs at bootcamp 9/9.
+Much hands of installing packages, linux commands.
