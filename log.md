@@ -332,3 +332,10 @@ Much hands of installing packages, linux commands.
 Started section server side framework on bootcamp. 
 Learnt the difference between framework and library. 
 Introduction to Express.js
+
+## Day 65: December 01, 2018
+Worked on Express Route Assignment : https://github.com/Devendra616/web-developer-bootcamp/tree/master/nodejs%20excercise/expressRouteAssignment
+Completed the server side framework session 7/7 on udemy.
+Wonderful explaination of HTTP2 at https://kinsta.com/learn/what-is-http2/
+Learnings : Route, route parameters, http2 
+
