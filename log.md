@@ -339,3 +339,6 @@ Completed the server side framework session 7/7 on udemy.
 Wonderful explaination of HTTP2 at https://kinsta.com/learn/what-is-http2/
 Learnings : Route, route parameters, http2 
 
+## Day 66-67: December 03-04, 2018
+Completed the 6/6 of intermediate express.
+Learnings: template, EJS, body-parser, partials.
