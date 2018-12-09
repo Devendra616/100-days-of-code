@@ -342,3 +342,12 @@ Learnings : Route, route parameters, http2
 ## Day 66-67: December 03-04, 2018
 Completed the 6/6 of intermediate express.
 Learnings: template, EJS, body-parser, partials.
+
+## Day 68-69: December 05-06, 2018
+Completed the APIs sesssions 9/9. 
+Learnings: Making api request from node, types of APIs, difference b/w API and web-service, JSON and XML format.
+Movies app: https://github.com/Devendra616/web-developer-bootcamp/tree/master/APIs
+
+## Day 70-71: December 08-09, 2018
+Completed the YelpCamp basics 6/6
+Yelpcamp excercise https://github.com/Devendra616/web-developer-bootcamp/tree/master/nodejs%20excercise/YelpCamp
