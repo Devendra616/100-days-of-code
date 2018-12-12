@@ -351,3 +351,9 @@ Movies app: https://github.com/Devendra616/web-developer-bootcamp/tree/master/AP
 ## Day 70-71: December 08-09, 2018
 Completed the YelpCamp basics 6/6
 Yelpcamp excercise https://github.com/Devendra616/web-developer-bootcamp/tree/master/nodejs%20excercise/YelpCamp
+
+## Day 72-73: December 10-11, 2018
+Gave time for database ie MongoDb. NoSQL vs SQL databases.
+Understanding Mongoose.
+CRUD operation in MongoDb using mongoose. 
+
