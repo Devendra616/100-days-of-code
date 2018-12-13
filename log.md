@@ -357,3 +357,7 @@ Gave time for database ie MongoDb. NoSQL vs SQL databases.
 Understanding Mongoose.
 CRUD operation in MongoDb using mongoose. 
 
+## Day 74: December 13, 2018
+Added v2 of Yelpcamp project
+https://github.com/Devendra616/web-developer-bootcamp/commit/a7c210da9c570e2708ae0ecfbb2bddf5d4f18e6e
+added database to the existing project. 
