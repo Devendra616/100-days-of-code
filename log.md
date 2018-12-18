@@ -363,6 +363,10 @@ https://github.com/Devendra616/web-developer-bootcamp/commit/a7c210da9c570e2708a
 https://github.com/Devendra616/web-developer-bootcamp/tree/master/nodejs%20excercise/YelpCamp/v2
 added database to the existing project. 
 
-## Day 76: December 15, 20183
+## Day 76: December 15, 2018
 Started the Blog App
 Insert and show all blogs index page. 
+
+## Day 77: December 17, 2018
+Completed the Blog App
+Edit , Delete and Show functionality added
