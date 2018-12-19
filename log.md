@@ -370,3 +370,8 @@ Insert and show all blogs index page.
 ## Day 77: December 17, 2018
 Completed the Blog App
 Edit , Delete and Show functionality added
+
+## Day 78-79 : December 18-19, 2018
+Completed Data Associations.
+Embedded Data and Object References. Their usage. 
+Use of exports and modularising node apps. 
