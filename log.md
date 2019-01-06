@@ -375,3 +375,7 @@ Edit , Delete and Show functionality added
 Completed Data Associations.
 Embedded Data and Object References. Their usage. 
 Use of exports and modularising node apps. 
+
+## Day 80-81 : January 05-06, 2019
+After a long leave of Christmas and New Year continued with the bootcamp at Udemy.
+Done the yelpcamp comment adding and styling it to version v4, v5.
