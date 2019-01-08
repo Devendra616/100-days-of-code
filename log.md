@@ -379,3 +379,7 @@ Use of exports and modularising node apps.
 ## Day 80-81 : January 05-06, 2019
 After a long leave of Christmas and New Year continued with the bootcamp at Udemy.
 Done the yelpcamp comment adding and styling it to version v4, v5.
+
+## Day 82-83 :  Janurary 07-08, 2019
+Authentication using passport, passport-local. 
+Sessions in nodejs. 
