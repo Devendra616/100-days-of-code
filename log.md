@@ -383,3 +383,8 @@ Done the yelpcamp comment adding and styling it to version v4, v5.
 ## Day 82-83 :  Janurary 07-08, 2019
 Authentication using passport, passport-local. 
 Sessions in nodejs. 
+
+## Day 84-86 : January 09-11, 2019
+Adding authentication to Yelpcamp, separating the routes from the app.js.
+Added username in comments section and new yelpcamp. 
+Refactoring Routes
