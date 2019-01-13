@@ -388,3 +388,7 @@ Sessions in nodejs.
 Adding authentication to Yelpcamp, separating the routes from the app.js.
 Added username in comments section and new yelpcamp. 
 Refactoring Routes
+
+## Day 87 : January 12, 2019
+Delete Campground route in yelpcamp and authorization functionality
+
