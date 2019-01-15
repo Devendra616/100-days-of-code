@@ -392,3 +392,7 @@ Refactoring Routes
 ## Day 87 : January 12, 2019
 Delete Campground route in yelpcamp and authorization functionality
 
+## Day 88-90 : January 13-15, 2019
+Improving yelpcamp UI - refactoring middleware, flash messages for error/success.
+Added landing page, dynamic price for campgrounds. 
+Updated previous routes for better security and less error prone. 
