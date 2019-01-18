@@ -396,3 +396,8 @@ Delete Campground route in yelpcamp and authorization functionality
 Improving yelpcamp UI - refactoring middleware, flash messages for error/success.
 Added landing page, dynamic price for campgrounds. 
 Updated previous routes for better security and less error prone. 
+
+## Day 91-92 : January 16-17, 2019
+Completed the udemy secton- Javascript the tricky stuff.
+Learnt about Call, Appy, Bind, this, new, prototypes, closure.
+Lastly deployed my yelpcamp on heroku https://yelpcamp-camp.herokuapp.com/ with database on mlab.
