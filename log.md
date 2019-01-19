@@ -401,3 +401,8 @@ Updated previous routes for better security and less error prone.
 Completed the udemy secton- Javascript the tricky stuff.
 Learnt about Call, Appy, Bind, this, new, prototypes, closure.
 Lastly deployed my yelpcamp on heroku https://yelpcamp-camp.herokuapp.com/ with database on mlab.
+
+## Day 93-94: January 18-19, 2019
+Worked on udemy additonal topic: Patatap clone. As site with sounds and circles on clicking of keys.
+Usage of paper.js, howler.js
+Explored different sections for new readings. 
