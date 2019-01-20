@@ -406,3 +406,6 @@ Lastly deployed my yelpcamp on heroku https://yelpcamp-camp.herokuapp.com/ with 
 Worked on udemy additonal topic: Patatap clone. As site with sounds and circles on clicking of keys.
 Usage of paper.js, howler.js
 Explored different sections for new readings. 
+
+## Day 95: January 20, 2019
+Today I modified the patatap clone to include mouse keys events to let it play on mobile devices where keyboard events can not be captured. Deployed the new version on heroku. https://patatap-c.herokuapp.com
