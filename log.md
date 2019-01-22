@@ -409,3 +409,12 @@ Explored different sections for new readings.
 
 ## Day 95: January 20, 2019
 Today I modified the patatap clone to include mouse keys events to let it play on mobile devices where keyboard events can not be captured. Deployed the new version on heroku. https://patatap-c.herokuapp.com
+
+## Day 96-97: January 21-22, 2019
+I have started the Zero to Mastery course on udemy by Andrei Neagoie.
+Completed some basic sessions: 
+  # How the Internet works
+  # History of web
+  # HTML5
+  # Advanced HTML5
+  # CSS
