@@ -413,21 +413,21 @@ Today I modified the patatap clone to include mouse keys events to let it play o
 ## Day 96-97: January 21-22, 2019
 I have started the Zero to Mastery (ZTM) course on udemy by Andrei Neagoie.
 Completed some basic sessions: 
-  ### How the Internet works
-  ### History of web
-  ### HTML5
-  ### Advanced HTML5
-  ### CSS
+   How the Internet works
+   History of web
+   HTML5
+   Advanced HTML5
+   CSS
 
 ## Day 98-99: Janurary 25-26, 2019
 Zero to Mastery
-  #### Advanced CSS
-  ### Bootstrap 4, Templates, And Building Your Startup Landing Page
-  ### Career Of A Web Developer
+   Advanced CSS
+   Bootstrap 4, Templates, And Building Your Startup Landing Page
+   Career Of A Web Developer
 
 ## Day  100: January 28, 2019
 Zero to Mastery
-  ### Javascript - Function, Arrays, Objects, Loops, Keywords
+   Javascript - Function, Arrays, Objects, Loops, Keywords
   
  ** Finally its end of the 100DaysOfCode Journey **
   
